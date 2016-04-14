@@ -473,3 +473,4 @@ class Money implements \JsonSerializable
         return $currency;
     }
 }
+//Testcomment
